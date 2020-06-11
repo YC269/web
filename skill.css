@@ -1,0 +1,71 @@
+ul {
+    list-style: none;  
+}
+.nav{
+    height:30px;
+}
+.nav ul li {
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-left: 5px;
+}
+.nav ul li a {
+    margin: 0 auto;
+    padding: 2px;
+    width: 130px;
+    height: 26px;
+    background: rgb(15, 179,64) ;
+    border-radius: 15px 15px 0 0;
+    color: white;
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+}
+.title {
+    margin-left: 47px;
+    width: 827px;
+    border-bottom: 1.5px rgb(15, 179,64) solid;
+}
+.title p {
+    margin: 10px 0;
+    color: rgb(15, 179,64);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.edu_content {
+    margin-left: 47px;
+    width: 827px;
+}
+.edu_content_box {
+    margin: 30px 15px;
+    height: 250px;
+    float: left;
+}
+.img{
+    height: 100px;
+    width: 200px;
+    background-size: cover;
+}
+.text {
+    margin: 10px auto;
+    width: 200px;
+    height: 30px;
+}
+.text p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+.img5 {
+    background-image: url(./../img/5.png);
+}
+.img6 {
+    background-image: url(./../img/6.png);
+}
+

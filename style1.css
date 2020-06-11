@@ -1,0 +1,78 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.box-left{
+    width: 30%;
+    height: 70%;
+}
+.content {
+    margin: 30px auto;
+    width: 200px;
+}
+
+.avater {
+    height: 202px;
+}
+.avater_content{
+    width:200px;
+    height:200px;
+    border: 2px solid #e4007e;
+    text-align: center;
+    line-height: 200px;
+    font-weight: bold;
+    font-size: 24px;
+    background: url(../img/avatar.png);
+    border-radius: 50%;
+    background-size: cover;
+}
+
+.name{
+    height: 30px;
+    line-height: 20px;
+    font-weight: 700;
+    font-size: 25px;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.info {
+    height: 120px;
+    text-align: center;
+}
+
+.base_info {
+    background-color: rgb(15, 179, 64);
+    border: 1px solid rgb(15, 179, 64);
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.spec_info p {
+    text-align: left;
+    margin:4px;
+}
+
+.tel{
+    height: 80px;
+    margin-top: 10px;
+}
+
+.intention{
+    height: 80px;
+    margin-top: 10px;
+}
+.right_content {
+    margin: 30px auto;
+    width: 900px;
+}

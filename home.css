@@ -1,0 +1,50 @@
+
+.content-box {
+    text-align: center;
+}
+
+.title {
+    height: 30px;
+    border-bottom: 1px rgb(15, 179,64) solid;
+}
+
+.spec {
+    margin: 0 auto;
+    padding: 2px;
+    width: 120px;
+    height: 26px;
+    border-radius: 15px 15px 0 0;
+    display: block;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.title a {
+    margin: 0 auto;
+    padding: 2px;
+    width: 120px;
+    height: 26px;  
+    display: block;
+    color: rgb(15, 179,64);
+    font-weight: 600;
+    font-size: 20px;
+}
+.title a:hover{
+    color: white;
+    background: rgb(15, 179,64) ;
+}
+
+.tit_content {
+    padding-left: 20px;
+}
+
+.tit_content p{
+    text-align: left;
+    margin:12px;
+}
+.tit_content span{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
